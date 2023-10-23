@@ -26,3 +26,8 @@ FFB is asking for a new component to house an interactive 'quiz' for the user. T
 		3. Answer 2 Next Type (Enumeration <<Question / Result>>)
 3. Create Results Experience Fragment
 	1. Make Variation for each result
+4. Create Folder for Quiz representation
+	1. Populate with question--content-Fragments
+		1. Build quiz, referencing questions and results appropriately
+	2. Ensure folder is "orderable" and be sure that the first question is ordered as such. That is how I will be setting the first displayed question vs the hidden questions
+5. 
