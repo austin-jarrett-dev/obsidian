@@ -15,9 +15,14 @@ FFB is asking for a new component to house an interactive 'quiz' for the user. T
 	1. Single field for "Quiz Path" / "Parent Path" that points to the asset folder in which we are storing the questions for the component
 2. Create Content Fragment Model
 	1. Question Text (Single Line Text)
-	2. Answer 1
+	2. Help Text (Multi Line Text)
+	3. Answer 1
 		1. Answer 1 Text (Single Line Text)
 		2. Answer 1 Next Step (Content Reference)
-		3. Answer 2 Next Type (Enumeration )
+		3. Answer 1 Next Type (Enumeration <<Question / Result>>)
+	4. Answer 2
+		1. Answer 2 Text (Single Line Text)
+		2. Answer 2 Next Step (Content Reference)
+		3. Answer 2 Next Type (Enumeration <<Question / Result>>)
 3. Create Results Experience Fragment
 	1. Make Variation for each result
