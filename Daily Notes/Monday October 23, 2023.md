@@ -5,7 +5,7 @@ FFB is getting together regarding a final decision on the OpenGraph Image issue.
 
 This leaves the next thing up for me being the CYOA work... but all of the requirements are not hard and fast laid out... so... I'm still holding on this. I could get started with the bones... but it may be a waste of time if we then decide on requirements that don't coincide with the direction I start in.
 
-I could get the bares of bones going, and intentionally leave things open and customizable going forward. Or I could just focus on some meta-work/pseudo-work.
+I could get the bares of bones going, and intentionally leave things open and customizable going forward. Or I could just focus on some meta-work/pseudo-work. For example maybe I just do all of the mental gymnastics that I can up front so that when I get to the actual development work I can get straight to it.
 ## Goals for Today
 - [ ] Get cleaned up and organized so that I am ready to hit the ground running with CYOA
 
