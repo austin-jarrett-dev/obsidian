@@ -10,6 +10,8 @@ FFB is asking for a new component to house an interactive 'quiz' for the user. T
 
 ## Development Planning
 
+### 
+
 ### Expected Steps
 1. Create Component
 	1. Single field for "Quiz Path" / "Parent Path" that points to the asset folder in which we are storing the questions for the component
@@ -54,6 +56,7 @@ FFB is asking for a new component to house an interactive 'quiz' for the user. T
 		1. Entire quiz collapses / hides
 		2. Results "page" displays
 	6. Results "page"
-		1. "restart quiz" button (top right)
-			1. resets quiz to initial state and displays
-			2. 
+		1. "restart quiz" button (top left)
+			1. resets quiz to initial state, hides results section, displays quiz
+		2. Generic results message for header (optional -- authored? or generic for each result)
+		3. Embed appropriate experience fragment (HTML from AJAX call?)
