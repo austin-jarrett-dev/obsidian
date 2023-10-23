@@ -30,4 +30,17 @@ FFB is asking for a new component to house an interactive 'quiz' for the user. T
 	1. Populate with question--content-Fragments
 		1. Build quiz, referencing questions and results appropriately
 	2. Ensure folder is "orderable" and be sure that the first question is ordered as such. That is how I will be setting the first displayed question vs the hidden questions
-5. 
+5. Add quiz to component, and work out the UI
+	1. Question as basically a header
+	2. Help-text icon-button next to header (cobalt / dark-cobalt)
+		1. on-click -> open help-text modal
+			1. blue-transparent background
+			2. X-out button top right (cobalt / dark-cobalt)
+			3. click-out to close
+			4. okay / cose button @ bottom
+			5. Populate modal with `question.helpText`
+	3. Question buttons displayed full-width
+		1. radio-button behavior (radio-circle fills in)
+		2. hover-state that follows brand-styles
+		3. 
+	4. 
