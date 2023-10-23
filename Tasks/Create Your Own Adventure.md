@@ -37,10 +37,23 @@ FFB is asking for a new component to house an interactive 'quiz' for the user. T
 			1. blue-transparent background
 			2. X-out button top right (cobalt / dark-cobalt)
 			3. click-out to close
-			4. okay / cose button @ bottom
+			4. okay / close button @ bottom
 			5. Populate modal with `question.helpText`
 	3. Question buttons displayed full-width
 		1. radio-button behavior (radio-circle fills in)
 		2. hover-state that follows brand-styles
-		3. 
-	4. 
+		3. selected gives a transparent blue fill
+	4. On answer click,
+		1. if next step is question
+			1. page extends and next question animates in (mock-up fades in)
+		2. if next step is result
+			1. page extends
+			2. "results" button appears
+			3. results button path is going to need to be dynamic
+	5. On "results" button click
+		1. Entire quiz collapses / hides
+		2. Results "page" displays
+	6. Results "page"
+		1. "restart quiz" button (top right)
+			1. resets quiz to initial state and displays
+			2. 
