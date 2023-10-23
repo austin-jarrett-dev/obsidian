@@ -10,7 +10,9 @@ FFB is asking for a new component to house an interactive 'quiz' for the user. T
 
 ## Development Planning
 
-### 
+### Questions / Need to Knows
+- I need to know every field that FFB wants to be customizable/dynamic
+- 
 
 ### Expected Steps
 1. Create Component
